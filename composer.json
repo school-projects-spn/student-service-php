@@ -1,0 +1,8 @@
+{
+    "name": "student/service",
+    "description": "Student microservice",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}
